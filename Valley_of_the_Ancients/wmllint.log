@@ -1,0 +1,9 @@
+wmllint: converting /home/trewe/src/umc-campaigns/Valley_of_the_Ancients/scenarios/2p_Othello.cfg
+"/home/trewe/src/umc-campaigns/Valley_of_the_Ancients/scenarios/3p_Outbreak.cfg", line 1280: unknown 'Maldor' referred to by id
+"/home/trewe/src/umc-campaigns/Valley_of_the_Ancients/scenarios/VOTA_04_Dwarven_Hold.cfg", line 737: unknown 'Mal-Draugur' referred to by id
+"/home/trewe/src/umc-campaigns/Valley_of_the_Ancients/scenarios/VOTA_04_Dwarven_Hold.cfg", line 746: unknown 'Mal-Draugur' referred to by id
+wmllint: converting /home/trewe/src/umc-campaigns/Valley_of_the_Ancients/scenarios/VOTA_04_Dwarven_Hold.cfg
+"/home/trewe/src/umc-campaigns/Valley_of_the_Ancients/utils/Death_upgrade.cfg", line 516: nonstandard word-wrap style within message
+"/home/trewe/src/umc-campaigns/Valley_of_the_Ancients/utils/Death_upgrade.cfg", line 770: nonstandard word-wrap style within message
+"/home/trewe/src/umc-campaigns/Valley_of_the_Ancients/utils/Death_upgrade.cfg", line 1253: nonstandard word-wrap style within message
+wmllint: converting /home/trewe/src/umc-campaigns/Valley_of_the_Ancients/utils/Death_upgrade.cfg
