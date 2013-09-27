@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Valley_of_the_Ancients-1.12\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-08-25 18:54-0400\n"
+"POT-Creation-Date: 2013-09-27 17:55-0400\n"
 "PO-Revision-Date: 2012-10-13 04:21+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -11,6 +11,54 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n==2 ? 1 : 2;\n"
+
+#. [campaign]: id=MP_Campaign_Valley_of_the_Ancients, type=mp
+#: Valley_of_the_Ancients/_main.cfg:11
+msgid "Valley of the Ancients"
+msgstr ""
+
+#. [campaign]: id=MP_Campaign_Valley_of_the_Ancients, type=mp
+#: Valley_of_the_Ancients/_main.cfg:12
+msgid "VotA"
+msgstr ""
+
+#. [campaign]: id=MP_Campaign_Valley_of_the_Ancients, type=mp
+#: Valley_of_the_Ancients/_main.cfg:27
+msgid ""
+"Fight your way into the legendary Valley of the Ancients against your "
+"rival.\n"
+"\n"
+msgstr ""
+
+#. [campaign]: id=MP_Campaign_Valley_of_the_Ancients, type=mp
+#: Valley_of_the_Ancients/_main.cfg:29
+msgid "(Competive campaign, 6 scenarios)"
+msgstr ""
+
+#. [campaign]: id=MP_Campaign_Valley_of_the_Ancients, type=mp
+#: Valley_of_the_Ancients/_main.cfg:30
+msgid "(Normal)"
+msgstr ""
+
+#. [campaign]: id=MP_Campaign_Valley_of_the_Ancients, type=mp
+#: Valley_of_the_Ancients/_main.cfg:30
+msgid "Guardian"
+msgstr ""
+
+#. [about]
+#: Valley_of_the_Ancients/_main.cfg:35
+msgid "Creator and Original Designer"
+msgstr ""
+
+#. [entry]
+#: Valley_of_the_Ancients/_main.cfg:37
+msgid "TL"
+msgstr ""
+
+#. [about]
+#: Valley_of_the_Ancients/_main.cfg:41
+msgid "Campaign Maintenance"
+msgstr ""
 
 #. [multiplayer]: id=TL_VOTA_Reversi
 #: Valley_of_the_Ancients/scenarios/2p_Othello.cfg:5
@@ -789,22 +837,18 @@ msgid ""
 "late!"
 msgstr ""
 
-#. [multiplayer]: id=TL_VOTA_01_Uneasy_Alliance
+#. [scenario]: id=TL_VOTA_01_Uneasy_Alliance
 #: Valley_of_the_Ancients/scenarios/VOTA_01_Uneasy_Alliance.cfg:6
-msgid "VotA_01-Uneasy Alliance"
+msgid "Uneasy Alliance"
 msgstr ""
 
-#. [multiplayer]: id=TL_VOTA_01_Uneasy_Alliance
-#: Valley_of_the_Ancients/scenarios/VOTA_01_Uneasy_Alliance.cfg:8
-msgid ""
-"Brief MP campaign. Fight your way into the legendary Valley of the Ancients "
-"against your rival.\n"
-"\n"
-"Use any era you want but enable Default settings."
+#. [scenario]: id=TL_VOTA_01_Uneasy_Alliance
+#: Valley_of_the_Ancients/scenarios/VOTA_01_Uneasy_Alliance.cfg:14
+msgid "Valley of the Ancients: the Gates of Dawn"
 msgstr ""
 
 #. [part]
-#: Valley_of_the_Ancients/scenarios/VOTA_01_Uneasy_Alliance.cfg:21
+#: Valley_of_the_Ancients/scenarios/VOTA_01_Uneasy_Alliance.cfg:25
 msgid ""
 "It is said that long before Men ever came from the west to settle the "
 "continent, in the days when even the elves and dwarves were new to the "
@@ -817,7 +861,7 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: Valley_of_the_Ancients/scenarios/VOTA_01_Uneasy_Alliance.cfg:26
+#: Valley_of_the_Ancients/scenarios/VOTA_01_Uneasy_Alliance.cfg:30
 msgid ""
 "Most dismiss the legend as pure fabrication. Even the dwarves themselves "
 "doubt that such a place ever existed; in their most ancient annals of "
@@ -830,7 +874,7 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: Valley_of_the_Ancients/scenarios/VOTA_01_Uneasy_Alliance.cfg:31
+#: Valley_of_the_Ancients/scenarios/VOTA_01_Uneasy_Alliance.cfg:35
 msgid ""
 "For years you have chased the myths. At first it was merely an exercise in "
 "curiosity, but as you began to piece the stories together, you became more "
@@ -842,69 +886,69 @@ msgstr ""
 
 #. [side]: id=player1
 #. [side]: id=player2
-#: Valley_of_the_Ancients/scenarios/VOTA_01_Uneasy_Alliance.cfg:42
-#: Valley_of_the_Ancients/scenarios/VOTA_01_Uneasy_Alliance.cfg:60
+#: Valley_of_the_Ancients/scenarios/VOTA_01_Uneasy_Alliance.cfg:46
+#: Valley_of_the_Ancients/scenarios/VOTA_01_Uneasy_Alliance.cfg:64
 msgid "Explorers"
 msgstr ""
 
 #. [side]
-#: Valley_of_the_Ancients/scenarios/VOTA_01_Uneasy_Alliance.cfg:75
+#: Valley_of_the_Ancients/scenarios/VOTA_01_Uneasy_Alliance.cfg:79
 msgid "Guardians"
 msgstr ""
 
 #. [unit]: type=$random
-#: Valley_of_the_Ancients/scenarios/VOTA_01_Uneasy_Alliance.cfg:101
+#: Valley_of_the_Ancients/scenarios/VOTA_01_Uneasy_Alliance.cfg:105
 msgid "Praetor"
 msgstr ""
 
 #. [objective]: condition=win
-#: Valley_of_the_Ancients/scenarios/VOTA_01_Uneasy_Alliance.cfg:208
+#: Valley_of_the_Ancients/scenarios/VOTA_01_Uneasy_Alliance.cfg:212
 msgid "Defeat enemy leader"
 msgstr ""
 
 #. [objective]: condition=lose
-#: Valley_of_the_Ancients/scenarios/VOTA_01_Uneasy_Alliance.cfg:212
+#: Valley_of_the_Ancients/scenarios/VOTA_01_Uneasy_Alliance.cfg:216
 msgid "Death of an Hero"
 msgstr ""
 
 #. [message]
-#: Valley_of_the_Ancients/scenarios/VOTA_01_Uneasy_Alliance.cfg:228
+#: Valley_of_the_Ancients/scenarios/VOTA_01_Uneasy_Alliance.cfg:232
 msgid "At last! Behold the Gates of Dawn--the legends are true!"
 msgstr ""
 
 #. [message]
-#: Valley_of_the_Ancients/scenarios/VOTA_01_Uneasy_Alliance.cfg:233
+#: Valley_of_the_Ancients/scenarios/VOTA_01_Uneasy_Alliance.cfg:237
 msgid "The legendary entrance to the Valley of the Ancients. I knew it!"
 msgstr ""
 
 #. [message]
-#: Valley_of_the_Ancients/scenarios/VOTA_01_Uneasy_Alliance.cfg:238
+#: Valley_of_the_Ancients/scenarios/VOTA_01_Uneasy_Alliance.cfg:242
 msgid ""
 "What? Who are you--how did you discover the location of the valley?! No "
 "matter. If you try to interfere, I will destroy you."
 msgstr ""
 
 #. [message]
-#: Valley_of_the_Ancients/scenarios/VOTA_01_Uneasy_Alliance.cfg:243
+#: Valley_of_the_Ancients/scenarios/VOTA_01_Uneasy_Alliance.cfg:247
 msgid ""
 "You really think you can stop me? It is my destiny to reclaim the ancient "
 "valley of the dwarves!"
 msgstr ""
 
 #. [message]
-#: Valley_of_the_Ancients/scenarios/VOTA_01_Uneasy_Alliance.cfg:248
+#: Valley_of_the_Ancients/scenarios/VOTA_01_Uneasy_Alliance.cfg:252
 msgid "More intruders, I see. So, you both seek the Accursed Valley?"
 msgstr ""
 
 #. [message]
-#: Valley_of_the_Ancients/scenarios/VOTA_01_Uneasy_Alliance.cfg:253
+#: Valley_of_the_Ancients/scenarios/VOTA_01_Uneasy_Alliance.cfg:257
 msgid ""
 "'Accursed Valley'? What nonsense is this? You will not stop me with a lot of "
 "superstitious prattle, fool!"
 msgstr ""
 
 #. [message]
-#: Valley_of_the_Ancients/scenarios/VOTA_01_Uneasy_Alliance.cfg:258
+#: Valley_of_the_Ancients/scenarios/VOTA_01_Uneasy_Alliance.cfg:262
 msgid ""
 "Indeed I will not; I will stop you with strength of arms, for it is our "
 "sworn duty to guard the valley. Be thankful, for it is a far kinder fate "
@@ -912,114 +956,99 @@ msgid ""
 msgstr ""
 
 #. [message]
-#: Valley_of_the_Ancients/scenarios/VOTA_01_Uneasy_Alliance.cfg:263
+#: Valley_of_the_Ancients/scenarios/VOTA_01_Uneasy_Alliance.cfg:267
 msgid ""
 "His words are backed by a great army. Perhaps we should band together until "
 "he is out of the way?"
 msgstr ""
 
 #. [message]
-#: Valley_of_the_Ancients/scenarios/VOTA_01_Uneasy_Alliance.cfg:268
+#: Valley_of_the_Ancients/scenarios/VOTA_01_Uneasy_Alliance.cfg:272
 msgid ""
 "So be it. First we will destroy these self-proclaimed guardians. Your "
 "reckoning will come later!"
 msgstr ""
 
 #. [message]
-#: Valley_of_the_Ancients/scenarios/VOTA_01_Uneasy_Alliance.cfg:273
+#: Valley_of_the_Ancients/scenarios/VOTA_01_Uneasy_Alliance.cfg:277
 msgid "Hah! We shall see."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Valley_of_the_Ancients/scenarios/VOTA_01_Uneasy_Alliance.cfg:289
+#: Valley_of_the_Ancients/scenarios/VOTA_01_Uneasy_Alliance.cfg:293
 msgid "Nooooo! I was so close..."
 msgstr ""
 
 #. [message]
-#: Valley_of_the_Ancients/scenarios/VOTA_01_Uneasy_Alliance.cfg:294
+#: Valley_of_the_Ancients/scenarios/VOTA_01_Uneasy_Alliance.cfg:298
 msgid ""
 "Well done, men. All we have to do is clean up the rest of this rabble. The "
 "valley is safe again, for now."
 msgstr ""
 
 #. [message]
-#: Valley_of_the_Ancients/scenarios/VOTA_01_Uneasy_Alliance.cfg:304
+#: Valley_of_the_Ancients/scenarios/VOTA_01_Uneasy_Alliance.cfg:308
 msgid ""
 "Damnation! I'll never be able to fight my way through now... you've won "
 "today, but I will be back!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Valley_of_the_Ancients/scenarios/VOTA_01_Uneasy_Alliance.cfg:321
+#: Valley_of_the_Ancients/scenarios/VOTA_01_Uneasy_Alliance.cfg:325
 msgid "No! I have failed..."
 msgstr ""
 
 #. [message]
-#: Valley_of_the_Ancients/scenarios/VOTA_01_Uneasy_Alliance.cfg:326
+#: Valley_of_the_Ancients/scenarios/VOTA_01_Uneasy_Alliance.cfg:330
 msgid "The valley is mine!"
 msgstr ""
 
 #. [message]
-#: Valley_of_the_Ancients/scenarios/VOTA_01_Uneasy_Alliance.cfg:331
+#: Valley_of_the_Ancients/scenarios/VOTA_01_Uneasy_Alliance.cfg:335
 msgid "Hah! Think again."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Valley_of_the_Ancients/scenarios/VOTA_01_Uneasy_Alliance.cfg:335
+#: Valley_of_the_Ancients/scenarios/VOTA_01_Uneasy_Alliance.cfg:339
 msgid "Hmph. Much good may it do you... turn back now, I tell you!"
 msgstr ""
 
 #. [message]
-#: Valley_of_the_Ancients/scenarios/VOTA_01_Uneasy_Alliance.cfg:340
+#: Valley_of_the_Ancients/scenarios/VOTA_01_Uneasy_Alliance.cfg:344
 msgid "Crazy old blighter... oh well. Time to settle the score!"
 msgstr ""
 
 #. [message]
-#: Valley_of_the_Ancients/scenarios/VOTA_01_Uneasy_Alliance.cfg:377
+#: Valley_of_the_Ancients/scenarios/VOTA_01_Uneasy_Alliance.cfg:381
 msgid "Reinforcements are at hand! Now we can sweep the invaders before us!"
 msgstr ""
 
 #. [message]
-#: Valley_of_the_Ancients/scenarios/VOTA_01_Uneasy_Alliance.cfg:382
+#: Valley_of_the_Ancients/scenarios/VOTA_01_Uneasy_Alliance.cfg:386
 msgid ""
 "Bah! You're on your own. I'm getting out of here while I still have a chance."
 msgstr ""
 
 #. [message]
-#: Valley_of_the_Ancients/scenarios/VOTA_01_Uneasy_Alliance.cfg:387
+#: Valley_of_the_Ancients/scenarios/VOTA_01_Uneasy_Alliance.cfg:391
 msgid ""
 "You coward! You've cost me my only chance at the Valley... you'll pay for "
 "this!"
 msgstr ""
 
 #. [modify_side]
-#: Valley_of_the_Ancients/scenarios/VOTA_01_Uneasy_Alliance.cfg:393
+#: Valley_of_the_Ancients/scenarios/VOTA_01_Uneasy_Alliance.cfg:397
 msgid "Traitor"
 msgstr ""
 
 #. [modify_side]
-#: Valley_of_the_Ancients/scenarios/VOTA_01_Uneasy_Alliance.cfg:398
+#: Valley_of_the_Ancients/scenarios/VOTA_01_Uneasy_Alliance.cfg:402
 msgid "Covard"
 msgstr ""
 
-#. [multiplayer]: id=TL_VOTA_02_Showdown
+#. [scenario]: id=TL_VOTA_02_Showdown
 #: Valley_of_the_Ancients/scenarios/VOTA_02_Showdown.cfg:6
-msgid "VotA_02-Showdown in the Valley"
-msgstr ""
-
-#. [multiplayer]: id=TL_VOTA_02_Showdown
-#. [multiplayer]: id=TL_VOTA_03_Cursed_City
-#. [multiplayer]: id=TL_VOTA_04_Dwarven_Hold
-#. [multiplayer]: id=TL_VOTA_05_Out_of_the_Frying_Pan
-#. [multiplayer]: id=TL_VOTA_06_Last_Battle
-#: Valley_of_the_Ancients/scenarios/VOTA_02_Showdown.cfg:8
-#: Valley_of_the_Ancients/scenarios/VOTA_03_Cursed_City.cfg:8
-#: Valley_of_the_Ancients/scenarios/VOTA_04_Dwarven_Hold.cfg:8
-#: Valley_of_the_Ancients/scenarios/VOTA_05_Out_of_the_Frying_Pan.cfg:8
-#: Valley_of_the_Ancients/scenarios/VOTA_06_Last_Battle.cfg:7
-msgid ""
-"MP campaign. Fight your way into the legendary Valley of the Ancients "
-"against your rival."
+msgid "Showdown in the Valley"
 msgstr ""
 
 #. [side]: type=Peasant, id=player1
@@ -1063,9 +1092,9 @@ msgid ""
 "dwarves will be mine and mine alone!"
 msgstr ""
 
-#. [multiplayer]: id=TL_VOTA_03_Cursed_City
+#. [scenario]: id=TL_VOTA_03_Cursed_City
 #: Valley_of_the_Ancients/scenarios/VOTA_03_Cursed_City.cfg:6
-msgid "VotA_03-The Accursed City"
+msgid "The Accursed City"
 msgstr ""
 
 #. [side]: type=Peasant, id=player1
@@ -1256,9 +1285,9 @@ msgstr ""
 msgid "Heh heh. Run while you can! You will join them soon enough!"
 msgstr ""
 
-#. [multiplayer]: id=TL_VOTA_04_Dwarven_Hold
+#. [scenario]: id=TL_VOTA_04_Dwarven_Hold
 #: Valley_of_the_Ancients/scenarios/VOTA_04_Dwarven_Hold.cfg:6
-msgid "VotA_04-Dwarven Hold"
+msgid "Dwarven Hold"
 msgstr ""
 
 #. [side]: type=Peasant, id=player1
@@ -1478,24 +1507,24 @@ msgid ""
 "now you have left us all no choice."
 msgstr ""
 
-#. [multiplayer]: id=TL_VOTA_04_Dwarven_Hold
+#. [scenario]: id=TL_VOTA_04_Dwarven_Hold
 #: Valley_of_the_Ancients/scenarios/VOTA_04_Dwarven_Hold.cfg:844
 msgid "Ring of Invisibility"
 msgstr ""
 
-#. [multiplayer]: id=TL_VOTA_04_Dwarven_Hold
+#. [scenario]: id=TL_VOTA_04_Dwarven_Hold
 #: Valley_of_the_Ancients/scenarios/VOTA_04_Dwarven_Hold.cfg:845
 msgid ""
 "Wearing this ring will render a unit invisible unless it attacks or moves "
 "adjacent to an enemy."
 msgstr ""
 
-#. [multiplayer]: id=TL_VOTA_04_Dwarven_Hold
+#. [scenario]: id=TL_VOTA_04_Dwarven_Hold
 #: Valley_of_the_Ancients/scenarios/VOTA_04_Dwarven_Hold.cfg:859
 msgid "Runestorm Axe"
 msgstr ""
 
-#. [multiplayer]: id=TL_VOTA_04_Dwarven_Hold
+#. [scenario]: id=TL_VOTA_04_Dwarven_Hold
 #: Valley_of_the_Ancients/scenarios/VOTA_04_Dwarven_Hold.cfg:860
 msgid ""
 "This magic throwing axe is enchanted to swiftly return to the thrower's hand."
@@ -1506,36 +1535,36 @@ msgstr ""
 msgid "runestorm axe"
 msgstr ""
 
-#. [multiplayer]: id=TL_VOTA_04_Dwarven_Hold
+#. [scenario]: id=TL_VOTA_04_Dwarven_Hold
 #: Valley_of_the_Ancients/scenarios/VOTA_04_Dwarven_Hold.cfg:909
 msgid "Golden Mail"
 msgstr ""
 
-#. [multiplayer]: id=TL_VOTA_04_Dwarven_Hold
+#. [scenario]: id=TL_VOTA_04_Dwarven_Hold
 #: Valley_of_the_Ancients/scenarios/VOTA_04_Dwarven_Hold.cfg:910
 msgid ""
 "This enchanted armor will increase a unit's hitpoints as well as boosting "
 "resistance to fire and cold damage."
 msgstr ""
 
-#. [multiplayer]: id=TL_VOTA_04_Dwarven_Hold
+#. [scenario]: id=TL_VOTA_04_Dwarven_Hold
 #: Valley_of_the_Ancients/scenarios/VOTA_04_Dwarven_Hold.cfg:933
 msgid "Ring of Ogre Might"
 msgstr ""
 
-#. [multiplayer]: id=TL_VOTA_04_Dwarven_Hold
+#. [scenario]: id=TL_VOTA_04_Dwarven_Hold
 #: Valley_of_the_Ancients/scenarios/VOTA_04_Dwarven_Hold.cfg:934
 msgid ""
 "Wearing this ring will grant the unit teleporting, and increasing the number "
 "of its strikes."
 msgstr ""
 
-#. [multiplayer]: id=TL_VOTA_04_Dwarven_Hold
+#. [scenario]: id=TL_VOTA_04_Dwarven_Hold
 #: Valley_of_the_Ancients/scenarios/VOTA_04_Dwarven_Hold.cfg:1007
 msgid "Spear of Valor"
 msgstr ""
 
-#. [multiplayer]: id=TL_VOTA_04_Dwarven_Hold
+#. [scenario]: id=TL_VOTA_04_Dwarven_Hold
 #: Valley_of_the_Ancients/scenarios/VOTA_04_Dwarven_Hold.cfg:1008
 msgid ""
 "This magic spear fills the wielder with courage and daring, letting them "
@@ -1547,31 +1576,31 @@ msgstr ""
 msgid "spear of valour"
 msgstr ""
 
-#. [multiplayer]: id=TL_VOTA_04_Dwarven_Hold
+#. [scenario]: id=TL_VOTA_04_Dwarven_Hold
 #: Valley_of_the_Ancients/scenarios/VOTA_04_Dwarven_Hold.cfg:1057
 msgid "Vial of Holy Water"
 msgstr ""
 
-#. [multiplayer]: id=TL_VOTA_04_Dwarven_Hold
+#. [scenario]: id=TL_VOTA_04_Dwarven_Hold
 #: Valley_of_the_Ancients/scenarios/VOTA_04_Dwarven_Hold.cfg:1058
 msgid ""
 "This blessed water will allow a unit's melee attacks to do arcane damage."
 msgstr ""
 
-#. [multiplayer]: id=TL_VOTA_04_Dwarven_Hold
+#. [scenario]: id=TL_VOTA_04_Dwarven_Hold
 #: Valley_of_the_Ancients/scenarios/VOTA_04_Dwarven_Hold.cfg:1073
 msgid "Trollsblood Potion"
 msgstr ""
 
-#. [multiplayer]: id=TL_VOTA_04_Dwarven_Hold
+#. [scenario]: id=TL_VOTA_04_Dwarven_Hold
 #: Valley_of_the_Ancients/scenarios/VOTA_04_Dwarven_Hold.cfg:1074
 msgid ""
 "This magical conconction will allow a unit to regenerate health like a troll."
 msgstr ""
 
-#. [multiplayer]: id=TL_VOTA_05_Out_of_the_Frying_Pan
+#. [scenario]: id=TL_VOTA_05_Out_of_the_Frying_Pan
 #: Valley_of_the_Ancients/scenarios/VOTA_05_Out_of_the_Frying_Pan.cfg:6
-msgid "VotA_05-Out of the Frying Pan"
+msgid "Out of the Frying Pan"
 msgstr ""
 
 #. [side]: type=Peasant, id=player1
@@ -1701,9 +1730,9 @@ msgstr ""
 msgid "Huzzah! Our curse is lifted. We are free!"
 msgstr ""
 
-#. [multiplayer]: id=TL_VOTA_06_Last_Battle
+#. [scenario]: id=TL_VOTA_06_Last_Battle
 #: Valley_of_the_Ancients/scenarios/VOTA_06_Last_Battle.cfg:5
-msgid "VotA_06-The Last Battle"
+msgid "The Last Battle"
 msgstr ""
 
 #. [side]: type=Peasant, id=player1
